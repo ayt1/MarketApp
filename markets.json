@@ -1,0 +1,269 @@
+{
+    "markets":
+    [
+        {
+            "market_ismi": "A101",
+            "indirimler":
+            [
+                {
+                    "title": "Haftanın Yıldızları",
+                    "tarih": "26 Ekim - 1 Kasım",
+                    "image_urls":
+                    [
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/290Kwyzorl_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/GUVVUpdWnh_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/MjKNv-Sfw8_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/juyg0gGFEb_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/8TDDHA15lG_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/FFzLb-NWUp_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/A-2AhdxkEs_1024x1024.png"
+                    ],
+                    "thumbnail": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/290Kwyzorl_1024x1024.png"
+                },
+                {
+                    "title": "Aldın Aldın",
+                    "tarih": "31 Ekim'den itibaren",
+                    "image_urls":
+                    [
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/LqXgAdnpiO_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/XYMiz1i8rN_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/BqiZdv6xuf_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/sMBiSvy2Dt_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/lThepjTzg4_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/LZFAqr5n2s_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/OlivAMordX_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/SosgG2Oob8_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/CBEsQ0Kj7m_1024x1024.png"
+                    ],
+                    "thumbnail": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/LqXgAdnpiO_1024x1024.png"
+                },
+                {
+                    "title": "Aldın Aldın",
+                    "tarih": "24 Ekim'den itibaren",
+                    "image_urls":
+                    [
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/uy1plQQs0s_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/xV6x3E2MeV_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/tQ491EMe38_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/A1WMxR36L1_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/fqbVfHq5eg_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/OQlfZ7b3d3_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/exK9lUz-HU_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/TQmoxX1M5z_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/4-r6GQA57X_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/GgwIFwZ1ka_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/r83vKFrIib_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/aDOwDx4rj9_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/xmoNHYkwIt_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/YTOJ--IGSl_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/ObAGVq34bO_1024x1024.png"
+                    ],
+                    "thumbnail": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/uy1plQQs0s_1024x1024.png"
+                },
+                {
+                    "title": "Büyük Olduğu İçin Ucuz",
+                    "tarih": "26 Ekim - 1 Kasım",
+                    "image_urls":
+                    [
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/gXyrShkVuQ_1024x1024.png",
+                        "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/cQRtLZWCq4_1024x1024.png"
+                    ],
+                    "thumbnail": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/gXyrShkVuQ_1024x1024.png"
+                }
+            ],
+            "logo_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/A101_logo.svg"
+        },
+        {
+            "market_ismi": "BIM",
+            "indirimler":
+            [
+                {
+                    "title": "İndirimli Ürünler",
+                    "tarih": "24-27 Ekim",
+                    "image_urls":
+                    [
+                        "https://cdn1.bim.com.tr/uploads/afisler/715e1850-a1ac-4e63-98a5-5b5b35440d16.jpg"
+                    ],
+                    "thumbnail": "https://cdn1.bim.com.tr/uploads/afisler/715e1850-a1ac-4e63-98a5-5b5b35440d16.jpg"
+                },
+                {
+                    "title": "İndirimli Ürünler",
+                    "tarih": "23-29 Ekim",
+                    "image_urls":
+                    [
+                        "https://cdn1.bim.com.tr/uploads/afisler/9692fce0-bc60-41cd-acbb-1b684ba97b11.jpg"
+                    ],
+                    "thumbnail": "https://cdn1.bim.com.tr/uploads/afisler/9692fce0-bc60-41cd-acbb-1b684ba97b11.jpg"
+                },
+                {
+                    "title": "İndirimli Ürünler",
+                    "tarih": "03-31 Ekim",
+                    "image_urls":
+                    [
+                        "https://cdn1.bim.com.tr/uploads/afisler/1063c550-f2d8-4eb5-8f89-6061f2013f5f.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/55399d11-1c6f-4cd5-bc63-900306c5bfc4.jpg"
+                    ],
+                    "thumbnail": "https://cdn1.bim.com.tr/uploads/afisler/1063c550-f2d8-4eb5-8f89-6061f2013f5f.jpg"
+                },
+                {
+                    "title": "Bim Aktüel",
+                    "tarih": "1 Kasım Cuma",
+                    "image_urls":
+                    [
+                        "https://cdn1.bim.com.tr/uploads/afisler/7e98c706-cc3e-436d-9830-b9e5806ffcbc.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/0a7348b2-2ddd-4a42-bcb3-0c1219ce654d.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/85013b7c-2fc3-4dd9-a7ea-cdd72e35d2e6.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/1ecac004-56fa-48fd-96d1-8d357da09531.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/ad7d6895-cfea-4e84-b610-bc49143c0435.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/40331455-8b55-42f9-9d49-10c23be6e970.jpg"
+                    ],
+                    "thumbnail": "https://cdn1.bim.com.tr/uploads/afisler/7e98c706-cc3e-436d-9830-b9e5806ffcbc.jpg"
+                },
+                {
+                    "title": "Bim Aktüel",
+                    "tarih": "30 Ekim Çarşamba",
+                    "image_urls":
+                    [
+                        "https://cdn1.bim.com.tr/uploads/afisler/22336df1-fd1b-4142-9aba-1af05255fbc4.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/efcd761e-b1a9-4aee-8f18-9d22842b4b37.jpg"
+                    ],
+                    "thumbnail": "https://cdn1.bim.com.tr/uploads/afisler/22336df1-fd1b-4142-9aba-1af05255fbc4.jpg"
+                },
+                {
+                    "title": "Bim Aktüel",
+                    "tarih": "29 Ekim Salı",
+                    "image_urls":
+                    [
+                        "https://cdn1.bim.com.tr/uploads/afisler/f54c757e-036c-4d50-ba77-dae5dde3b60c.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/6e29ecef-8b84-446e-adfb-6d9b9bbf266f.jpg"
+                    ],
+                    "thumbnail": "https://cdn1.bim.com.tr/uploads/afisler/f54c757e-036c-4d50-ba77-dae5dde3b60c.jpg"
+                },
+                {
+                    "title": "Bim Aktüel",
+                    "tarih": "25 Ekim Cuma",
+                    "image_urls":
+                    [
+                        "https://cdn1.bim.com.tr/uploads/afisler/7ac155be-e2db-4f87-b572-f37d2818bbdf.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/57369e49-00e9-4a5b-bd26-c676cdfec042.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/1050e53f-6047-4213-8df8-864c3a89f92a.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/a7f981d1-4d87-4b5d-8be1-55173b1139a9.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/2cb69967-2182-4e05-b5cc-d2af22171d43.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/b1d3870e-ecd9-4a46-9220-edee4f5bb454.jpg"
+                    ],
+                    "thumbnail": "https://cdn1.bim.com.tr/uploads/afisler/7ac155be-e2db-4f87-b572-f37d2818bbdf.jpg"
+                },
+                {
+                    "title": "Bim Aktüel",
+                    "tarih": "22 Ekim Salı",
+                    "image_urls":
+                    [
+                        "https://cdn1.bim.com.tr/uploads/afisler/c02692c2-7d45-4188-af6e-cf341d7ff1c2.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/b2a60669-833b-413a-9753-e85539ca98e5.jpg"
+                    ],
+                    "thumbnail": "https://cdn1.bim.com.tr/uploads/afisler/c02692c2-7d45-4188-af6e-cf341d7ff1c2.jpg"
+                },
+                {
+                    "title": "Bim Aktüel",
+                    "tarih": "23 Ekim Çarşamba",
+                    "image_urls":
+                    [
+                        "https://cdn1.bim.com.tr/uploads/afisler/d1b0e8c8-ab6f-415b-81bb-6b59823ab246.jpg"
+                    ],
+                    "thumbnail": "https://cdn1.bim.com.tr/uploads/afisler/d1b0e8c8-ab6f-415b-81bb-6b59823ab246.jpg"
+                },
+                {
+                    "title": "Bim Aktüel",
+                    "tarih": "18 Ekim Cuma",
+                    "image_urls":
+                    [
+                        "https://cdn1.bim.com.tr/uploads/afisler/b72caf46-f467-4d0d-baf9-f9e68eea024c.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/e0dcf13e-927a-4cfa-ae5d-731dc0ac0259.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/5d001827-8548-4658-85ab-a80d7815426e.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/d107a306-1594-466e-ac75-3e539610b923.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/0df38c34-e8c1-4408-9923-afda3d9b2321.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/7418eb12-f3b5-401d-a292-1579b309d269.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/b559720b-75e8-494b-9d79-de67b13e01ed.jpg"
+                    ],
+                    "thumbnail": "https://cdn1.bim.com.tr/uploads/afisler/b72caf46-f467-4d0d-baf9-f9e68eea024c.jpg"
+                },
+                {
+                    "title": "Bim Aktüel",
+                    "tarih": "16 Ekim Çarşamba",
+                    "image_urls":
+                    [
+                        "https://cdn1.bim.com.tr/uploads/afisler/b483ed2f-3168-455a-a680-0de87beb2638.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/e2128e7b-ed99-4a92-97e2-63f928a3514a.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/6dbdc695-7f30-41b3-a8de-14a70d147c36.jpg"
+                    ],
+                    "thumbnail": "https://cdn1.bim.com.tr/uploads/afisler/b483ed2f-3168-455a-a680-0de87beb2638.jpg"
+                },
+                {
+                    "title": "Bim Aktüel",
+                    "tarih": "15 Ekim Salı",
+                    "image_urls":
+                    [
+                        "https://cdn1.bim.com.tr/uploads/afisler/905f60a7-d4db-4217-a220-1c2c2ae3010f.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/732e8662-48c4-42bd-a6da-5123578b00c5.jpg",
+                        "https://cdn1.bim.com.tr/uploads/afisler/ad689c86-3011-4064-aefd-59586ef9a222.jpg"
+                    ],
+                    "thumbnail": "https://cdn1.bim.com.tr/uploads/afisler/905f60a7-d4db-4217-a220-1c2c2ae3010f.jpg"
+                },
+                {
+                    "title": "Bim Aktüel",
+                    "tarih": "BİSİKLET",
+                    "image_urls":
+                    [
+                        "https://cdn1.bim.com.tr/uploads/afisler/097917fe-629b-425f-9b4b-785b1c3fe276.jpg"
+                    ],
+                    "thumbnail": "https://cdn1.bim.com.tr/uploads/afisler/097917fe-629b-425f-9b4b-785b1c3fe276.jpg"
+                }
+            ],
+            "logo_url": "https://www.bim.com.tr/Gorseller/Genel/B%C4%B0M%20LOGO.jpg"
+        },
+        {
+            "market_ismi": "Happy Center",
+            "indirimler":
+            [
+                {
+                    "title": "İndirim Bülteni",
+                    "tarih": "",
+                    "image_urls":
+                    [
+                        "https://eski.happycenter.com.tr//userfiles/resimler/happy1.jpg",
+                        "https://eski.happycenter.com.tr//userfiles/resimler/happy2.jpg",
+                        "https://eski.happycenter.com.tr//userfiles/resimler/happy3.jpg",
+                        "https://eski.happycenter.com.tr//userfiles/resimler/happy4.jpg"
+                    ],
+                    "thumbnail": "https://eski.happycenter.com.tr//userfiles/resimler/happy1.jpg"
+                }
+            ],
+            "logo_url": "https://static.happycenter.com.tr/Uploads/Kurumsal/logo-046DB-300x0.png"
+        },
+        {
+            "market_ismi": "ŞOK",
+            "indirimler":
+            [
+                {
+                    "title": "ÇARŞAMBA FIRSATLARI",
+                    "tarih": "23-29 Ekim",
+                    "image_urls":
+                    [
+                        "https://images.ceptesok.com/cms-assets/sub-folder/23_29_ekim_fmcg_nf_compressed_89da9c284c.pdf"
+                    ],
+                    "thumbnail": "https://images.ceptesok.com/cms-assets/sub-folder/23_29_ekim_fmcg_nf_compressed_89da9c284c.pdf"
+                },
+                {
+                    "title": "CUMARTESİ FIRSATLARI",
+                    "tarih": "26-29 Ekim",
+                    "image_urls":
+                    [
+                        "https://images.ceptesok.com/cms-assets/sub-folder/26_29_Ekim_NF_Poster_61b8fe60d8.pdf"
+                    ],
+                    "thumbnail": "https://images.ceptesok.com/cms-assets/sub-folder/26_29_Ekim_NF_Poster_61b8fe60d8.pdf"
+                }
+            ],
+            "logo_url": "https://kurumsal.sokmarket.com.tr/Assets/images/logo/sokmarketler.png"
+        }
+    ]
+}
