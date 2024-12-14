@@ -2,8 +2,7 @@ import difflib
 import os
 import time
 from io import BytesIO
-from uuid import uuid4
-
+from datetime import datetime
 import requests
 from PIL import Image
 from selenium.webdriver.chrome.options import Options
@@ -52,7 +51,8 @@ class Market(object):
 
     def save_as_pdf(self, url_list, save_folder):
         images = []
-        save_path = f"{os.path.join(save_folder, str(uuid4()))}.pdf"
+        filename = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
+        save_path = f"{os.path.join(save_folder, filename)}.pdf"
         for url in url_list:
             try:
                 # Fetch the image

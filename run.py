@@ -1,23 +1,24 @@
 from markets import *
 from market_config import config
 import json
+from huey import MemoryHuey, crontab, RedisHuey
+import os
 
+huey = MemoryHuey()
 
-discounts = []
+@huey.periodic_task(crontab(minute='0', hour='7,23'))
+def get_all_discounts():
+    if os.path.exists("discounts.json"):
+        with open("/home/aytac/market/discounts.json", "r", encoding='utf-8') as f:
+            discount_data = json.load(f)
+    else:
+        discount_data = [val['output_json'] for val in config.values()]
 
-# a101 = A101(config['a101'])
-# bim = BIM(config['bim'])
-# happy = HappyCenter(config['happy'])
-# watsons = Watsons(config['watsons'])
-# sok = Sok(config['sok'])
-# onur = Onur(config['onur'])
-#
-# for market in [a101, bim, happy, watsons, sok, onur]:
-#     markets.append(market.fetch_discount_brochures())
+    for (class_name, value), prev_data in zip(config.items(), discount_data):
+        market = globals()[class_name](value)
+        discount = market.fetch_discount_brochures()
+        if discount['indirimler']:
+            prev_data['indirimler'] = discount['indirimler']
 
-for value in config.values():
-    market = value['class'](value)
-    discounts.append(market.fetch_discount_brochures())
-
-with open("discounts.json", "w") as f:
-    json.dump(discounts, f, indent=4, ensure_ascii=False)
+    with open("discounts.json", "w") as f:
+        json.dump(discount_data, f, indent=4, ensure_ascii=False)
